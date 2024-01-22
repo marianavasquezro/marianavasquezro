@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="Coding" width="400" src='https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif'>
+<img align="right" alt="Coding" width="400" src='https://cdn.dribbble.com/users/3873964/screenshots/14523057/media/02a1ca5dc4e5faacfac8e754195b118c.gif'>
 
 <p align="left">
 
