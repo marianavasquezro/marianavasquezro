@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer Student</h3>
 
 - 📝 I regularly write articles on https://medium.com/@marianavasquezr958
 - 💬 Ask me about **Responsive Web Development**
